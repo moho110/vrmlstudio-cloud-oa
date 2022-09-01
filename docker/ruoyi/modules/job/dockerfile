@@ -1,0 +1,15 @@
+# 基础镜像
+FROM  openjdk:8-jre
+# author
+MAINTAINER VrmlStudio
+
+# 挂载目录
+VOLUME /home/VrmlStudio
+# 创建目录
+RUN mkdir -p /home/VrmlStudio
+# 指定路径
+WORKDIR /home/VrmlStudio
+# 复制jar文件到路径
+COPY ./jar/VrmlStudio-modules-job.jar /home/VrmlStudio/VrmlStudio-modules-job.jar
+# 启动定时任务服务
+ENTRYPOINT ["java","-jar","VrmlStudio-modules-job.jar"]

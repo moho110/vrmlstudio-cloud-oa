@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/vrmlstudio-api/vrmlstudio-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-api/vrmlstudio-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-datascope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-datascope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-datasource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-datasource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-common/vrmlstudio-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-document/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-document/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-finance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-finance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-flow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-flow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-hr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-hr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-file/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-file/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-gen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-workflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-modules-workflow/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-person/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-person/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-police/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-police/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-resources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-resources/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-tenant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-tenant/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-xsystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-modules/vrmlstudio-xsystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-visual/vrmlstudio-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vrmlstudio-visual/vrmlstudio-monitor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vrmlstudio-modules-gen" />
+        <module name="vrmlstudio-common-log" />
+        <module name="vrmlstudio-document" />
+        <module name="vrmlstudio-visual-monitor" />
+        <module name="vrmlstudio-common-core" />
+        <module name="vrmlstudio-modules-workflow" />
+        <module name="vrmlstudio-modules-system" />
+        <module name="vrmlstudio-police" />
+        <module name="vrmlstudio-common-swagger" />
+        <module name="vrmlstudio-common-security" />
+        <module name="vrmlstudio-modules-api" />
+        <module name="vrmlstudio-gateway" />
+        <module name="vrmlstudio-common-datascope" />
+        <module name="vrmlstudio-modules-file" />
+        <module name="vrmlstudio-hr" />
+        <module name="vrmlstudio-finance" />
+        <module name="vrmlstudio-auth" />
+        <module name="vrmlstudio-common-datasource" />
+        <module name="vrmlstudio-common-redis" />
+        <module name="vrmlstudio-person" />
+        <module name="vrmlstudio-flow" />
+        <module name="vrmlstudio-resources" />
+        <module name="vrmlstudio-modules-job" />
+        <module name="vrmlstudio-xsystem" />
+        <module name="vrmlstudio-tenant" />
+        <module name="vrmlstudio-api-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vrmlstudio" target="1.8" />
+      <module name="vrmlstudio-api" target="1.8" />
+      <module name="vrmlstudio-api-system" target="1.8" />
+      <module name="vrmlstudio-auth" target="1.8" />
+      <module name="vrmlstudio-common" target="1.8" />
+      <module name="vrmlstudio-common-core" target="1.8" />
+      <module name="vrmlstudio-common-datascope" target="1.8" />
+      <module name="vrmlstudio-common-datasource" target="1.8" />
+      <module name="vrmlstudio-common-log" target="1.8" />
+      <module name="vrmlstudio-common-redis" target="1.8" />
+      <module name="vrmlstudio-common-security" target="1.8" />
+      <module name="vrmlstudio-common-swagger" target="1.8" />
+      <module name="vrmlstudio-document" target="1.8" />
+      <module name="vrmlstudio-finance" target="1.8" />
+      <module name="vrmlstudio-flow" target="1.8" />
+      <module name="vrmlstudio-gateway" target="1.8" />
+      <module name="vrmlstudio-hr" target="1.8" />
+      <module name="vrmlstudio-modules" target="1.8" />
+      <module name="vrmlstudio-modules-api" target="1.8" />
+      <module name="vrmlstudio-modules-file" target="1.8" />
+      <module name="vrmlstudio-modules-gen" target="1.8" />
+      <module name="vrmlstudio-modules-job" target="1.8" />
+      <module name="vrmlstudio-modules-system" target="1.8" />
+      <module name="vrmlstudio-modules-workflow" target="1.8" />
+      <module name="vrmlstudio-person" target="1.8" />
+      <module name="vrmlstudio-police" target="1.8" />
+      <module name="vrmlstudio-resources" target="1.8" />
+      <module name="vrmlstudio-tenant" target="1.8" />
+      <module name="vrmlstudio-visual" target="1.8" />
+      <module name="vrmlstudio-visual-monitor" target="1.8" />
+      <module name="vrmlstudio-xsystem" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

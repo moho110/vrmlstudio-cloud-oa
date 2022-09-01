@@ -1,0 +1,14 @@
+/hr/kqdisv/getList       /hr/kqdisv/find/{id}
+/hr/kqdkjl/getList       /hr/kqdkjl/find/{id}
+/hr/kqdw/getList         /hr/kqdw/find/{id}
+/hr/kqerr/getList        /hr/kqerr/find/{id}
+/hr/kqinfo/getList       /hr/kqinfo/find/{id}
+/hr/kqjcmd/getList       /hr/kqjcmd/find/{id}
+/hr/kqjsn/getList        /hr/kqjsn/find/{id}
+/hr/kqjuser/getList      /hr/kqjuser/find/{id}
+/hr/kqout/getList        /hr/kqout/find/{id}
+/hr/kqsjgz/getList       /hr/kqsjgz/find/{id}
+/hr/kqxxsj/getList       /hr/kqxxsj/find/{id}
+/hr/location/getList     /hr/location/find/{id}
+/hr/reward/getList       /hr/reward/find/{id}
+/hr/vcard/getList        /hr/vcard/find/{id}
